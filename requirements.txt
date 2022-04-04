@@ -1,0 +1,7 @@
+torch
+torchvision
+Pillow
+tqdm
+pystuck
+facenet_pytorch
+gradio
