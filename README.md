@@ -26,6 +26,12 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7dfc80dafd474856aedb9f35a41071bb.png)
 
+**(2022/6/7更)效果**
+
+用的小柔SeeU的迁移效果，简直就是爆爆本爆！
+
+![请添加图片描述](https://img-blog.csdnimg.cn/405d556a42954b54a2169f7decc26a1d.jpeg
+
 # 写在后面
 很喜欢LOL千珏的一句话
 
