@@ -30,7 +30,7 @@
 
 用的小柔SeeU的迁移效果，简直就是爆爆本爆！
 
-![请添加图片描述](https://img-blog.csdnimg.cn/405d556a42954b54a2169f7decc26a1d.jpeg
+![请添加图片描述](https://img-blog.csdnimg.cn/405d556a42954b54a2169f7decc26a1d.jpeg)
 
 # 写在后面
 很喜欢LOL千珏的一句话
